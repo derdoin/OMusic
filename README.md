@@ -1,3 +1,5 @@
 kurulum için Telegramdan ulaşabilirsiniz 
 
-t.me/SamilBurda
+
+### Heroku Kurulum ⏳
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/derdoin/OMusic)
